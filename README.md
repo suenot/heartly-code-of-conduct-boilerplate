@@ -1,4 +1,4 @@
-<h1 align="center">Code of Conduct From <a href="https://www.contributor-covenant.org/">Contributor Covenant</a> 💕 <a href="https://github.com/sindresorhus/awesome"><img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" /></a></h1>
+<h1 align="center">Code of Conduct From <a href="https://www.contributor-covenant.org/">Contributor Covenant</a> 💕</h1>
 <h5 align="center">A `CODE_OF_CONDUCT.md` for easy sharability in new repositories.</h5>
 
 ---
